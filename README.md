@@ -10,7 +10,7 @@ Création d'un jeu du Morpion permettant de jouer seul contre ou à deux joueurs
 
 ## Résultat
 
-![Visuel](https://puu.sh/FHSbD/393a6aba92.png)
+![Visuel](https://puu.sh/FHTak/8bad049226.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
